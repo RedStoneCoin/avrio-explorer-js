@@ -16,7 +16,7 @@ Devs:
 Adapted to RedStone:
     @leocornelius @redstoneco
 
-Donate: 
+Donate: RvXpchczNDWTMNvQLnzWWvGPpAqBbS6oDEdcDHMi94qphsY1pZ7adgwC4dCevmoEA35GK58dyvG7ziKBV9b8Cfr41YAQGBkQS
 ### Note
 
 A lot of this code is from the great Karbovanets/Karbowanec-Blockchain-Explorer
