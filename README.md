@@ -1,5 +1,5 @@
 # Red-Blockchain-Explorer
-Block explorer for redstone.
+Block explorer for Redstone.
 
 #### Installation
 
@@ -13,10 +13,10 @@ Block explorer for redstone.
 ### Development
 Devs:
     @devopsralf
-Adapted to redstone:
-    @leocornelius
+Adapted to RedStone:
+    @leocornelius @redstoneco
 
-Donate: 
+Donate: RvXpchczNDWTMNvQLnzWWvGPpAqBbS6oDEdcDHMi94qphsY1pZ7adgwC4dCevmoEA35GK58dyvG7ziKBV9b8Cfr41YAQGBkQS
 ### Note
 
 A lot of this code is from the great Karbovanets/Karbowanec-Blockchain-Explorer
