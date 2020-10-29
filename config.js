@@ -1,4 +1,4 @@
-var api = 'http://127.0.0.1:44401';
+var api = 'http://127.0.0.1:44402';
 var donationAddress = "RvXuUzcSb751xntZYE1bFrTbzmQfmhXHNPu1tbqom7c8SKtLL9rBZd8cfTLFTMBgcNga5mgAhrGMX2JAMAgDXCxY1nzidQeHT";
 var blockTargetInterval = 180; // enter the block interval in seconds
 var coinUnits = 1000000;  // enter in the amount of atomic units in 1 coin, eg. 100 shells = 1 trtl
